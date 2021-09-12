@@ -1,4 +1,6 @@
 streamlit
-pickle
+plotly
+seaborn
+matplotlib
 numpy
 sklearn
