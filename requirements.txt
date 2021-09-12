@@ -1,0 +1,7 @@
+streamlit
+plotly
+seaborn
+matplotlib
+numpy
+sklearn
+pickleshare==0.7.5
